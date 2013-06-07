@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <host>smtp.exmail.qq.com</host>
+    <port>25</port>
+    <user>sohappy@ipensee.com</user>
+    <password>shrh1001</password>
+    <address>sohappy@ipensee.com</address>
+</email>
